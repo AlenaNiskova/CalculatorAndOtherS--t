@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Univer2</string>
+    <string name="TextView">This is TextView.</string>
+    <string name="TextView2">This is changed TextView.</string>
+    <string name="EditText">This is EditText.</string>
+    <string name="Button">This is just a Button</string>
+    <string name="CheckBox">This will change something.</string>
+    <string name="TextViewUndo">This is unchanged TextView.</string>
+    <string name="ButtonNewAct">Click here to change activity</string>
+    <string name="ChangedBy3">This text was changed by first button.</string>
+    <string name="ChangedBy4">This text was changed by second button.</string>
+    <string name="ChangedBy5">This text was changed by third button.</string>
+    <string name="other">Open other activity</string>
+    <string name="yota">Реклама Yota в моём калькуляторе</string>
+    <string name="imNull">На 0 делить нельзя!</string>
+    <string name="del">DEL</string>
+    <string name="clr">CLR</string>
+</resources>
