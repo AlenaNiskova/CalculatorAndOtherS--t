@@ -1,3 +1,4 @@
 # Calculator and other soft for university project.
-# Логика для калькулятора, работа с разными активити, работа с меню и прочая шняга.
-# Логика калькулятора закончена.
+# There are logic for calculator, work with different activities, work with menu and other stuff.
+# Logic for calculator is done.
+# Add landscape orientation for one activity, forbid to turn for other activities.
