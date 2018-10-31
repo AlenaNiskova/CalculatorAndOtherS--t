@@ -381,8 +381,7 @@ public class Calculator extends AppCompatActivity implements View.OnClickListene
             }
             default: break;
         }
-        if (stInput.contains("E")) {
-            bt_del.setText(getText(R.string.clr));
-        } else { bt_del.setText(getText(R.string.del)); }
+        if (stInput.contains("E")) { bt_del.setText(getText(R.string.clr)); }
+        else { bt_del.setText(getText(R.string.del)); }
     }
 }
