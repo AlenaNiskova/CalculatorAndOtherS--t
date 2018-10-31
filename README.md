@@ -1,2 +1,3 @@
 # Calculator and other soft for university project.
-# There is logiс for calculator, work w/ activities and other things.
+# Логика для калькулятора, работа с разными активити, работа с меню и прочая шняга.
+# Логика калькулятора закончена.
